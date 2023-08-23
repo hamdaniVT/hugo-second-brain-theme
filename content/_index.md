@@ -5,7 +5,7 @@ toc: false
 
 image:
   filename: covers/ai_background.jpg
-  caption: NASA
+  caption: ai
 ---
 
 Welcome to my personal webpage!
