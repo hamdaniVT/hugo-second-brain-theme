@@ -4,8 +4,8 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/ai_background.jpg
-  caption: ai
+  filename: covers/background_aziz.png
+  caption: Abdulaziz Alhamadani
 ---
 
 Welcome to my personal webpage!
